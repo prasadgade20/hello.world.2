@@ -1,5 +1,6 @@
-#include<stdio.h>
-void main()
+#INCLUDE<STDIO.H>
+VOID NAME()
 {
-    printf(hello.c...!!)
+PRINTF("HELLO WORLD");
+  PRINTF("\n this file is edited");
 }
